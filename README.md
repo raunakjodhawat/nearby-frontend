@@ -1,3 +1,3 @@
 # Nearby Frontend
 
-[Current Page](/docs/landing_page.png)
+[!Current Page](/docs/landing_page.png)
